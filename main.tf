@@ -1,6 +1,5 @@
 // test resource group
-resource "azurerm_resource_group" "rg-test" {
-  name     = "rg-cicd-test"
-  location = var.region_main
-  tags     = local.common_tags
+resource "azurerm_resource_group" "cicd_test_rg" {
+  name     = "CICD-test-rg"
+  location = "uksouth"
 }
