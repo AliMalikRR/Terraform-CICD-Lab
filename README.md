@@ -30,7 +30,7 @@ The pipeline follows these stages:
 
 ### Pipeline Architecture
 
-![Azure Terraform CI/CD Pipeline](pipeline-diagram.png)
+<img width="1199" height="1312" alt="CI_CD Pipeline to Azure" src="https://github.com/user-attachments/assets/dcbc4f58-ec34-453f-9a6c-7d2bb0005da7" />
 
 ## Key Learning Outcomes
 
